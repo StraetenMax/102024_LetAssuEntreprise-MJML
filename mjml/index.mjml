@@ -98,7 +98,7 @@
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Déjà partenaire d'<span style="font-weight:700">EcoSup Assurance</span> en accueillant plusieurs de nos étudiants en contrat d'apprentissage, la <span style="font-weight:700;">SMA BTP</span> s'engage auprès de nos jeunes en parrainant le <span style="font-weight:700;">"challenge Bachelors"</span> pour le mois de mars 2025. Une opportunité unique pour nos étudiants d'être accompagnés par une entreprise incontournable du monde de l'assurance.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
         <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
@@ -122,7 +122,7 @@
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Nous sommes particulièrement fier d'officialiser notre partenariat déjà opérationnel, solide et très enrichissant pour nos élèves et nos entreprises. Un moment fort sera dédié le 28 novembre dans notre école... On vous tiens au courant ! </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
         <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
