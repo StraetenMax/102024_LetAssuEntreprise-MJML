@@ -66,16 +66,6 @@
         <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">À très bientôt !</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#270938">
-      <mj-column width="30%">
-        <mj-image padding="10px 0" border="none" target="_blank" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
-      </mj-column>
-      <mj-column width="70%">
-        <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#718096" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
-        <mj-text padding="5px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#ffffff">Votre entreprise recherche un collaborateur ! </mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#e2e5e9">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
-      </mj-column>
-    </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
         <mj-image padding="10px 0" border="none" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/qyRhLk3/092024-02.jpg" alt="étudiant entrain d'exposer son projet à son tuteur"/>
@@ -87,17 +77,14 @@
         <mj-text padding="5px 25px" align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/recruter-apprenti" style="color:#BA4995;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#2D3748">
+    <mj-section background-color="#270938">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+        <mj-image padding="10px 0" border="none" target="_blank" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
       </mj-column>
       <mj-column width="70%">
-        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Journée Portes Ouvertes</mj-text>
-        <mj-social padding="0px 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
-          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Samedi 23 novembre de 9h30 à 13h</span></mj-social-element>
-        </mj-social>
-        <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à élaborer de nouveaux partenariats.</mj-text>
+        <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#718096" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
+        <mj-text padding="5px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#ffffff">Votre entreprise recherche un collaborateur ! </mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#e2e5e9">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -133,6 +120,45 @@
         <mj-text padding="0px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">EcoSup Campus et Grafton Group - Kelly Services</mj-text>
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">EcoSup Campus consolide son partenariat avec Grafton Recruitement Group - Kelly Service. L'année 2024 sera définitivement une année riche en partenariat pour notre école. </mj-text>
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Nous sommes particulièrement fier d'officialiser notre partenariat déjà opérationnel, solide et très enrichissant pour nos élèves et nos entreprises. Un moment fort sera dédié le 28 novembre dans notre école... On vous tiens au courant ! </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="30%">
+        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
+        <mj-text padding="0px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Business Network International (BNI) : un atout majeur pour EcoSup Campus!</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Notre école est fière de faire partie du <span style="font-weight:700">groupe BNI Culture Business</span>. Avec plus de 20 000 membres en France, Belgique et Luxembourg, <span style="font-weight:700">BNI</span> est un réseau d'affaires incontournable. Cette adhésion nous offre une opportunité unique de :</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" padding-right="25px" padding-left="50px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Rayonner localement :</span> Rencontrer de nombreux acteurs économiques de notre région.</mj-text>
+        <mj-text padding-top="0" padding-bottom="0" padding-right="25px" padding-left="50px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Développer des partenariats solides :</span> Favoriser les échanges et les collaborations avec des entreprises.</mj-text>
+        <mj-text padding-top="0" padding-bottom="5px" padding-right="25px" padding-left="50px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">• Ouvrir de nouvelles perspectives à nos étudiants :</span> Les mettre en relation avec de futurs employeurs.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2D3748">
+      <mj-column width="30%">
+        <mj-image padding="10px 0px" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Réunion spéciale invités</mj-text>
+        <mj-social padding="0px 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Jeudi 14 novembre de 7h15 à 9h</span></mj-social-element>
+        </mj-social>
+        <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à élaborer de nouveaux partenariats.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2D3748">
+      <mj-column width="30%">
+        <mj-image padding="10px 0px" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Journée Portes Ouvertes</mj-text>
+        <mj-social padding="0px 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Samedi 23 novembre de 9h30 à 13h</span></mj-social-element>
+        </mj-social>
+        <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à élaborer de nouveaux partenariats.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
