@@ -13,7 +13,7 @@
       <meta name="format-detection" content="address=no"/>
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
-    <mj-breakpoint width="450px"/>
+    <mj-breakpoint width="480px"/>
   </mj-head>
   <mj-body background-color="#fcfcfc">
     <mj-section background-color="#270938" padding="0">
@@ -68,7 +68,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0" border="none" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/qyRhLk3/092024-02.jpg" alt="étudiant entrain d'exposer son projet à son tuteur"/>
+        <mj-image padding="10px 0" border="none" width="480px" src="https://i.ibb.co/qyRhLk3/092024-02.jpg" alt="étudiant entrain d'exposer son projet à son tuteur"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation apprentissage</mj-text>
@@ -89,7 +89,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
@@ -100,7 +100,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Taxe d'apprentissage</mj-text>
@@ -113,7 +113,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
@@ -124,7 +124,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
@@ -137,7 +137,7 @@
     </mj-section>
     <mj-section background-color="#2D3748">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+        <mj-image padding="10px 0px" border="none" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
@@ -150,7 +150,7 @@
     </mj-section>
     <mj-section background-color="#2D3748">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+        <mj-image padding="10px 0px" border="none" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
