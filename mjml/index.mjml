@@ -14,13 +14,6 @@
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-breakpoint width="480px"/>
-    <mj-style>
-      @media (max-width: 480px){
-          .max{
-              width: 50% !important;
-          }
-      }
-    </mj-style>
   </mj-head>
   <mj-body background-color="#fcfcfc">
     <mj-section background-color="#270938" padding="0">
@@ -80,23 +73,23 @@
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation apprentissage</mj-text>
         <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Recruter un apprenti : la solution gagnante pour votre entreprise !</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Vous souhaitez transmettre votre savoir-faire tout en pérennisant votre activité ? L'apprentissage est la réponse ! En recrutant un apprenti, vous bénéficiez de nombreux avantages et de soutiens financiers importants. Découvrons ensemble comment mettre en place cette collaboration gagnante.</mj-text>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/recruter-apprenti" style="color:#BA4995;" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Vous souhaitez transmettre votre savoir-faire tout en pérennisant votre activité ? <span style="font-weight:700">L'apprentissage est la réponse !</span> En recrutant un apprenti, vous bénéficiez de nombreux avantages et de soutiens financiers importants. Découvrons ensemble comment mettre en place cette collaboration gagnante.</mj-text>
+        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/recruter-apprenti" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938">
       <mj-column width="30%">
-        <mj-image padding="10px 0" fluid-on-mobile="true" border="none" target="_blank" src="https://i.ibb.co/hd9Hpds/112024cv-Book.png" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="10px 0" fluid-on-mobile="true" border="none" target="_blank" src="https://i.ibb.co/hd9Hpds/112024cv-Book.png" href="https://ecosup-assurance.fr/cv-book/" alt="Illustration présentant une liste de curriculum vitae"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#718096" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
         <mj-text padding="5px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#ffffff">Votre entreprise recherche un collaborateur ! </mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#e2e5e9">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400" color="#e2e5e9">Certains de nos étudiants(es) n'ont toujours pas de <span style="font-weight:700;">contrat d'apprentissage</span>. Découvrez leur profil, téléchargez et consultez notre <a style="color:#BA4995;font-weight:700" href="https://ecosup-assurance.fr/cv-book/" target="_blank">CV Book code:102024</a>. Vous y trouverez sans aucun doute votre futur apprenti !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/0Fc4FgN/112024-A1-Assurance.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/0Fc4FgN/112024-A1-Assurance.jpg" alt="SMA BTP soutiendra nos étudiants au Challenge Bachelor en mars 2025"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
@@ -107,7 +100,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/x26ch28/112024-A3-Assurance.png" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/x26ch28/112024-A3-Assurance.png" alt="un pouce levé pour les entreprises qui versent leur taxe d'apprentissage à Ecosup Campus"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Taxe d'apprentissage</mj-text>
@@ -120,18 +113,18 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/5G1rT2p/112024-A4-Assurance.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/gmMkMwY/112024-A6-Assurance.jpg" alt="Grafton group partenaire d'Ecosup campus dans le choix des étudants"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
         <mj-text padding="0px 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">EcoSup Campus et Grafton Group - Kelly Services</mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">EcoSup Campus consolide son partenariat avec Grafton Recruitement Group - Kelly Service. L'année 2024 sera définitivement une année riche en partenariat pour notre école. </mj-text>
-        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Nous sommes particulièrement fier d'officialiser notre partenariat déjà opérationnel, solide et très enrichissant pour nos élèves et nos entreprises. Un moment fort sera dédié le 28 novembre dans notre école... On vous tiens au courant ! </mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700">EcoSup Campus</span> consolide son partenariat avec <span style="font-weight:700">Grafton Recruitement Group - Kelly Service</span>. L'année 2024 sera définitivement une année riche en partenariat pour notre école. </mj-text>
+        <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400">Nous sommes particulièrement fier d'officialiser notre partenariat déjà opérationnel, solide et très enrichissant pour nos élèves et nos entreprises. Un moment fort sera dédié le <span style="font-weight:700">28 novembre</span> dans notre école... On vous tiens au courant ! </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/z26M6dH/112024-A2-Assurance.jpg" alt="BNI est une association dynamique d'échange d'expériences entre entrepreneurs"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
