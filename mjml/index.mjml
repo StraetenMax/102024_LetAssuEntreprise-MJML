@@ -113,7 +113,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/gmMkMwY/112024-A6-Assurance.jpg" alt="Grafton group partenaire d'Ecosup campus dans le choix des étudants"/>
+        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/gmMkMwY/112024-A6-Assurance.jpg" alt="Grafton group partenaire d'Ecosup campus dans le recrutement des étudants"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
@@ -137,7 +137,7 @@
     </mj-section>
     <mj-section background-color="#2D3748">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" border="none" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+        <mj-image padding="10px 0px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/gS8y4Rf/112024-A7-Assurance.jpg" alt="Affiche annonçant l'évènement BNI du jeudi 14 novembre de 7h15 à 9h chez Ecosup Campus"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
@@ -148,9 +148,14 @@
         <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à élaborer de nouveaux partenariats.</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-spacer height="20px"></mj-spacer>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#2D3748">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" border="none" src="https://i.ibb.co/qmgJcTq/092024-03.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+        <mj-image padding="10px 0px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/NKhY92H/112024-A8-Assurance.jpg" alt="Affiche de la JPO du 23 novembre 2024"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
@@ -159,6 +164,11 @@
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Samedi 23 novembre de 9h30 à 13h</span></mj-social-element>
         </mj-social>
         <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à élaborer de nouveaux partenariats.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
