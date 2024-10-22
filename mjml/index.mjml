@@ -75,7 +75,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0" border="none" width="480px" src="https://i.ibb.co/qyRhLk3/092024-02.jpg" alt="étudiant entrain d'exposer son projet à son tuteur"/>
+        <mj-image padding="10px 0" fluid-on-mobile="true" border="none" width="480px" src="https://i.ibb.co/H2sgjZh/112024-A5-Assurance.jpg" alt="étudiant entrain d'exposer son projet à son tuteur"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation apprentissage</mj-text>
@@ -86,7 +86,7 @@
     </mj-section>
     <mj-section background-color="#270938">
       <mj-column width="30%">
-        <mj-image padding="10px 0" border="none" target="_blank" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="10px 0" fluid-on-mobile="true" border="none" target="_blank" src="https://i.ibb.co/hd9Hpds/112024cv-Book.png" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#718096" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
@@ -107,7 +107,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" fluid-on-mobile="true" width="480px" border="none" src="https://i.ibb.co/x26ch28/112024-A3-Assurance.png" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Taxe d'apprentissage</mj-text>
@@ -120,7 +120,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
+        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/5G1rT2p/112024-A4-Assurance.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
