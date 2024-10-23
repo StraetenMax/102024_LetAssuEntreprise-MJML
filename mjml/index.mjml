@@ -53,7 +53,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/GFgc5JD/video-Bandeau102024.gif" alt="l'univers de l'assurance avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/517Cws3/video-Bandeau102024.gif" alt="l'univers de l'assurance avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
@@ -113,7 +113,7 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/gmMkMwY/112024-A6-Assurance.jpg" alt="Grafton group partenaire d'Ecosup campus dans le recrutement des étudants"/>
+        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/BZ7QpLW/112024-A10-Assurance.jpg" alt="Grafton group partenaire d'Ecosup campus dans le recrutement des étudants"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Partenariat entreprise</mj-text>
@@ -141,11 +141,13 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Réunion spéciale invités</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">BNI : Réunion spéciale invités</mj-text>
         <mj-social padding="0px 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Jeudi 14 novembre de 7h15 à 9h</span></mj-social-element>
         </mj-social>
-        <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">L'occasion de découvrir les locaux, de rencontrer l'équipe pédagogique, de visiter les installations techniques, de discuter avec des étudiants et de commencer à élaborer de nouveaux partenariats.</mj-text>
+        <mj-text padding-top="0" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">Les réunions spéciales avec des invités au programme sont une occasion en or pour élargir votre réseau professionnel.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">Imaginez un événement où chaque poignée de main est une nouvelle opportunité de business, chaque conversation un speed meeting potentiel, et chaque échange un pas vers de nouvelles rencontres enrichissantes.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" align="left" font-size="16px" line-height="20px" font-weight="500" color="#EDF2F7">C'est l'essence même des Speed Business Meetings, où en peu de temps, vous pouvez rencontrer une multitude de professionnels, partager vos expériences et peut-être même, nouer des partenariats durables.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
@@ -159,7 +161,7 @@
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#BA4995" line-height="18px" text-transform="uppercase">À vos Agendas</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Journée Portes Ouvertes</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#bea6d8">Ecosup : Journée Portes Ouvertes</mj-text>
         <mj-social padding="0px 25px" align="left" font-size="20px" line-height="24px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
           <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier"><span style="color:#ffffff;">Samedi 23 novembre de 9h30 à 13h</span></mj-social-element>
         </mj-social>
